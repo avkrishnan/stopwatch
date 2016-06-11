@@ -2,7 +2,7 @@
 
 A simple native iOS application built with React Native.
 
-![screenshot](https://raw.githubusercontent.com/slwen/stopwatch/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/slwen/stopwatch/master/screenshot.jpg)
 
 ### Commands
 
