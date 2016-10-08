@@ -13,7 +13,7 @@
   "dependencies": {
     "minutes-seconds-milliseconds": "^1.0.3",
     "react": "^15.1.0",
-    "react-native": "^0.27.0-rc2"
+    "react-native": "^0.34.0"
   },
   "devDependencies": {
     "babel-core": "^6.9.1",
